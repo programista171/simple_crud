@@ -1,0 +1,1 @@
+<a href=" {{route('tasks.index') }}">Strona główna – wszystkie zadania</a>
